@@ -4,7 +4,7 @@ cobol  programa simple restautant
 
 #  administrada 
 
-por mesras con inteligncias artificials y humanos , caja barra , analisis de activia comercial en restaurants  y sistemas de pedidos a  Dmicilio por medio otros
+por mesras con inteligncias artificials y humanos , caja barra , analisis de actividad comercial en restaurants  y sistemas de pedidos a  Domicilio por medio otros
 operando por humanos (human) y drones operado por (IA) Inteligencia artificial.
 
 @2023  Derecho auto    system gregory pc 
